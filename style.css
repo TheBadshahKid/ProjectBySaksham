@@ -1,0 +1,38 @@
+#body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/161120_%EA%B1%B4%EB%8C%80_%EB%AA%A8%EB%AA%A8%EB%9E%9C%EB%93%9C_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%EC%A7%81%EC%B0%8D_%EC%97%85%EB%A1%9C%EB%93%9C_%2810%29.jpg/220px-161120_%EA%B1%B4%EB%8C%80_%EB%AA%A8%EB%AA%A8%EB%9E%9C%EB%93%9C_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%EC%A7%81%EC%B0%8D_%EC%97%85%EB%A1%9C%EB%93%9C_%2810%29.jpg);
+border: 12px;
+color: rgb(46, 43, 226);} 
+#second{
+    background-color: rgb(0, 255, 225);
+    color: cornflowerblue;
+border: 12px;
+border-color: blueviolet;}
+#THIRD{
+    background-color:rgb(0, 255, 225) ;
+    color: rgb(0, 255, 102);
+    color: cornflowerblue;}
+#FIRST{
+    color: cornflowerblue;
+    border: 0ex;
+    background-color:rgb(0, 255, 225) ;
+    
+}
+#REALITY{
+        color: cornflowerblue;
+        border: 0ex;
+        background-color:rgb(0, 255, 225) ;
+}
+#TOM{        color: cornflowerblue;
+    border: 0ex;
+    background-color:rgb(0, 255, 225) ;
+}
+#ANDREW{
+    background-color: rgb(13, 0, 255);
+    color: rgb(235, 237, 100);
+border: 12px;
+border-color: rgb(43, 226, 58);}
+#wake{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaTm9F_Fr9ci5hVoezidsWI0zJd1hrUTYOA&usqp=CAU");
+    border: 12px;
+color: rgb(46, 43, 226);;
+}
